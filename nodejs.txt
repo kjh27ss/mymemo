@@ -1,0 +1,14 @@
+npm build --> npm start
+npm run dev / yarn dev
+
+tailwind.css -> global.css 생김
+
+삭제
+비번
+입력창
+
+
+read 
+--> [id] 
+
+=> read/id
